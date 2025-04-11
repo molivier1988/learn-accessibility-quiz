@@ -59,6 +59,9 @@ I kinda got lost with this exercise. Initial steps were relatively simple althou
 ## References
 
 [Semantic HTML W3 Schools](https://www.w3schools.com/html/html5_semantic_elements.asp)
+
 [W3C Making the Web Accessible](https://www.w3.org/WAI/)
+
 [W3C Contrast](https://www.w3.org/TR/WCAG20-TECHS/G18.html)
+
 [CSS-Tricks Understandin Web Accessibility Colour Contrast Guidelines and ratios](https://css-tricks.com/understanding-web-accessibility-color-contrast-guidelines-and-ratios/)
